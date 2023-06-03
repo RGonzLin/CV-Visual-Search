@@ -10,6 +10,9 @@ A subset of the Oxford flowers 102 dataset, containing 24 species of flowers, wa
 
 ## Key features
 * Obtantion of embeddings for use in visual search
+* Visualization of embeddings via Principal Component Analysis (PCA)
 * Query an image to obtain similar ones
 * Query a couple of images to evaluate if they belong to the same class
 * Evaluate search performance using the mAP@k metric
+
+<img width="775" alt="8" src="https://github.com/RGonzLin/CV-Visual-Search/assets/65770155/30bb07f8-c995-47d2-b97c-a1485b365a95">
